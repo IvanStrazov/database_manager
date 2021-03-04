@@ -13,6 +13,6 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     description="DataBase Manager for Potential Team",
     author="Ivan Strazov",
-    author_email="IPStrazov@sberbank.ru",
-    url="https://stash.delta.sbrf.ru/projects/POTPLAN/repos/database_manager"
+    author_email="ivanstrazov@gmail.com",
+    url="https://github.com/IvanStrazov/database_manager/"
 )
