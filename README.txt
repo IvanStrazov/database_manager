@@ -1,5 +1,5 @@
 
-DataBase Manager for Potential Team.
+DataBase Manager
 
 
 How to use?
